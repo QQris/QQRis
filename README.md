@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a Systems Engineering student focusing on software dev
 
 * 🔭 **I’m currently working on:** Academic degree projects and exploring local infrastructure setups.
 * 🌱 **I’m currently learning:** C and Python.
-* 🐧 **SysAdmin & Linux:** Exploring Arch Linux, virtualization, and home server lab environments.
+* I like racoons 🦝
 
 <br/>
 

@@ -22,7 +22,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="racoon-"  />
+<img data-importer="image" align="right" height="150" src="racoon.jpg"/>
 
 ###
 
